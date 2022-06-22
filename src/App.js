@@ -1,6 +1,7 @@
 // import logo from './logo.svg';
 import './App.scss';
-import { Router } from 'react-router-dom';
+import { Router, Route } from 'react-router-dom';
+import Layout from './components/layout';
 
 function App() {
   return (
