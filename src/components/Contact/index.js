@@ -22,7 +22,7 @@ const Contact = () => {
     emailjs
       .sendForm(
         'gmail',
-        'service_ig95huf',
+        'serghjjjvice_idjjjggHgfhf95hufHSBSBJ',
         form.current,
         'your-token'
       )
